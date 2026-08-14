@@ -46,7 +46,7 @@ export default function Contact() {
                 <MapPin className="mt-1 text-[var(--red)]" size={18} />
                 <span>
                   <strong className="block font-editorial text-2xl font-normal">Location</strong>
-                  <span className="mt-1 block text-[var(--muted)]">Lagos, Nigeria</span>
+                  <span className="mt-1 block text-[var(--muted)]">WorldWide</span>
                 </span>
               </div>
             </div>
@@ -98,7 +98,7 @@ export default function Contact() {
           <div className="mx-auto grid max-w-[1600px] gap-10 lg:grid-cols-[1fr_.8fr] lg:items-end">
             <div>
               <SectionLabel number="Direct line">WhatsApp</SectionLabel>
-              <h2 className="mt-6 max-w-2xl text-4xl sm:text-5xl md:text-7xl">Let's talk.</h2>
+              <h2 className="mt-6 max-w-2xl text-4xl sm:text-5xl md:text-7xl">Let&apos;s talk.</h2>
               <p className="mt-6 max-w-md text-sm leading-8 text-white/70">For the fastest response, reach me directly on WhatsApp. I personally read and respond to every message.</p>
             </div>
             <a href={WHATSAPP_URL} target="_blank" rel="noopener noreferrer" className="inline-flex w-fit items-center gap-3 bg-[#25D366] px-6 py-4 text-[10px] font-bold uppercase tracking-[.14em] text-white transition-colors hover:bg-[#1da851]">

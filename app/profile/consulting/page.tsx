@@ -11,7 +11,7 @@ export default function ConsultingPage() {
 
         <PageSection label="The practice" title="Where conviction meets craft." className="bg-[var(--paper)]">
           <div className="mt-12 max-w-2xl space-y-6 text-sm leading-8 text-[var(--muted)] lg:mt-16">
-            <p>Great brands are not built on aesthetics alone. They are built on clarity — a deep understanding of who you are, who you serve, and why it matters. My consulting practice exists to help organisations find that clarity and turn it into work that endures.</p>
+            <p>Great brands are not built on aesthetics alone. They are built on clarity, a deep understanding of who you are, who you serve, and why it matters. My consulting practice exists to help organisations find that clarity and turn it into work that endures.</p>
             <p>Whether you are shaping a new identity, refining an existing one, or building a strategy for what comes next, the goal is always the same: to make the right things visible.</p>
           </div>
           <div className="mt-14">

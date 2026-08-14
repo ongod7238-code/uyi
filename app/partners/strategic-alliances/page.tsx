@@ -11,7 +11,7 @@ export default function StrategicAlliancesPage() {
 
         <PageSection label="Strategic alliances" title="Built on conviction." className="bg-[var(--paper)]">
           <div className="mt-12 max-w-2xl space-y-6 text-sm leading-8 text-[var(--muted)] lg:mt-16">
-            <p>The most meaningful work is rarely made alone. Strategic alliances are the relationships that bring shared conviction, complementary strengths, and a common ambition to the table — making the work richer, wider, and more enduring than it could be alone.</p>
+            <p>The most meaningful work is rarely made alone. Strategic alliances are the relationships that bring shared conviction, complementary strengths, and a common ambition to the table,  making the work richer, wider, and more enduring than it could be alone.</p>
             <p>These are partnerships built on trust and mutual purpose, where each party brings something the other needs, and the result is greater than the sum of its parts.</p>
           </div>
         </PageSection>

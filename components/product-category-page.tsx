@@ -66,7 +66,7 @@ export function ProductCategoryPage({
 
         <PageSection label="Direct access" title="Looking for something specific?" className="bg-[var(--sand)]">
           <div className="mt-8 flex flex-col gap-8 lg:mt-10 lg:flex-row lg:items-end lg:justify-between">
-            <p className="max-w-lg text-sm leading-8 text-[var(--muted)]">For speaking, mentorship, discipleship, or collaboration enquiries, begin a conversation and let's find the right next step.</p>
+            <p className="max-w-lg text-sm leading-8 text-[var(--muted)]">For speaking, mentorship, discipleship, or collaboration enquiries, begin a conversation and let&apos;s find the right next step.</p>
             <Link href="/contact" className="inline-flex w-fit items-center gap-3 border-b border-[var(--ink)] pb-2 text-[11px] font-bold uppercase tracking-[.14em] text-[var(--ink)] transition-colors hover:border-[var(--red)] hover:text-[var(--red)]">Make an enquiry <ArrowUpRight size={14} /></Link>
           </div>
         </PageSection>

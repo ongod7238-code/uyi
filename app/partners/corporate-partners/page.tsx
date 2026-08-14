@@ -16,7 +16,7 @@ export default function CorporatePartnersPage() {
           </div>
           <div className="mt-12 max-w-2xl space-y-6 text-sm leading-8 text-[var(--muted)]">
             <p>Corporate partnerships are where strategy meets scale. From technology to consumer brands, these collaborations share a common goal: making strong ideas more useful, more visible, and more enduring.</p>
-            <p>Each partnership is an opportunity to bring clarity, craft, and conviction to organisations operating at scale — helping them communicate what they stand for with precision and purpose.</p>
+            <p>Each partnership is an opportunity to bring clarity, craft, and conviction to organisations operating at scale, helping them communicate what they stand for with precision and purpose.</p>
           </div>
           <div className="mt-12">
             <EditorialLink href="/contact">Bring me into the room</EditorialLink>

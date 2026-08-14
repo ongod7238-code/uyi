@@ -81,7 +81,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
         <div className="mx-auto flex max-w-[1600px] items-center justify-between px-5 py-4 sm:px-8 md:px-10 md:py-5 lg:px-14">
           <Link href="/" className="group flex items-center" aria-label="Uyi-Osa Degarson — Home">
             <Image
-              src="/images/ChatGPT_Image_Aug_13,_2026,_11_13_23_AM.png"
+              src="/images/logo1.png"
               alt="Uyi-Osa Degarson"
               width={220}
               height={120}
@@ -208,7 +208,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
           <div className="grid gap-12 border-b border-white/15 pb-14 lg:grid-cols-[1.4fr_1fr_1fr]">
             <div>
               <Image
-                src="/images/ChatGPT_Image_Aug_13,_2026,_11_13_23_AM.png"
+                src="/images/logo1.png"
                 alt="Uyi-Osa Degarson"
                 width={220}
                 height={120}
@@ -230,7 +230,7 @@ export function SiteShell({ children }: { children: React.ReactNode }) {
               <div className="mt-5 flex flex-col gap-3 text-sm text-white/70">
                 <a href="https://wa.me/2348132968170" target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-2 transition-colors hover:text-white"><MessageCircle size={14} /> WhatsApp</a>
                 <a href="mailto:uyi.degarson@gmail.com" className="inline-flex items-center gap-2 transition-colors hover:text-white"><Mail size={14} /> uyi.degarson@gmail.com</a>
-                <span>Lagos, Nigeria</span>
+                <span>Worldwide</span>
                 <div className="mt-4 flex gap-5">
                   <a href="https://instagram.com/uyidegarson" target="_blank" rel="noopener noreferrer" aria-label="Instagram" className="text-white/70 transition-colors hover:text-white"><Instagram size={16} strokeWidth={1.4} /></a>
                   <a href="https://facebook.com/uyidegarson" target="_blank" rel="noopener noreferrer" aria-label="Facebook" className="text-white/70 transition-colors hover:text-white"><Facebook size={16} strokeWidth={1.4} /></a>

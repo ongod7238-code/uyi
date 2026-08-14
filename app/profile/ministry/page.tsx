@@ -27,7 +27,7 @@ export default function MinistryPage() {
           <div className="mx-auto grid max-w-[1600px] gap-12 lg:grid-cols-[.7fr_1.3fr] lg:gap-16">
             <SectionLabel number="02">Statement of faith</SectionLabel>
             <div className="max-w-3xl">
-              <Quote author="A shared confession">We believe in one God, eternally existing as Father, Son, and Holy Spirit. We believe that salvation is by grace alone through faith in Jesus Christ, and that every believer is called to grow in Christlikeness through discipleship and absolute obedience to God's Word.</Quote>
+              <Quote author="A shared confession">We believe in one God, eternally existing as Father, Son, and Holy Spirit. We believe that salvation is by grace alone through faith in Jesus Christ, and that every believer is called to grow in Christlikeness through discipleship and absolute obedience to God&apos;s Word.</Quote>
               <p className="mt-12 text-sm leading-8 text-white/60">We believe in the Great Commission and are committed to making disciples of all nations until Christ returns.</p>
             </div>
           </div>
