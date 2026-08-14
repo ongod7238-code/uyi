@@ -1,0 +1,21 @@
+import { BookOpen } from 'lucide-react';
+import { ProductCategoryPage } from '@/components/product-category-page';
+
+export const metadata = { title: 'Books — Uyi-Osa Degarson', description: 'Ideas for the long road — writing on identity, faith, leadership, and the work of becoming.' };
+
+export default function BooksPage() {
+  return (
+    <ProductCategoryPage
+      eyebrow="02 / Products / Books"
+      title="Books"
+      tagline="Ideas for the long road — writing on identity, faith, leadership, and the work of becoming."
+      description="Books are how ideas travel furthest. Each one is written to meet you at a turning point and give you language for what you already sense — about purpose, about faith, about the slow and sacred work of becoming the person you were made to be."
+      icon={BookOpen}
+      details={[
+        { label: 'Themes', text: 'Identity in Christ, creative purpose, leadership, and building a life of intention.' },
+        { label: 'Format', text: 'Short, considered volumes designed to be read slowly and returned to often.' },
+        { label: 'Audience', text: 'Believers, creatives, entrepreneurs, and leaders who want depth without noise.' },
+      ]}
+    />
+  );
+}
