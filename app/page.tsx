@@ -27,7 +27,7 @@ export default function Home() {
               Uyi-Osa Degarson is a worship leader, brand identity consultant and strategist helping people and organisations express their God-given identity with clarity.
             </p>
             <div className="mt-6 flex flex-col gap-4 sm:mt-8 sm:flex-row sm:flex-wrap sm:gap-7 reveal-up" style={{ animationDelay: '.3s' }}>
-              <Link href="/profile" className="inline-flex w-fit items-center gap-2 border border-white bg-white px-4 py-2.5 text-[9px] font-bold uppercase tracking-[.14em] text-[var(--ink)] transition-colors hover:bg-transparent hover:text-white sm:gap-3 sm:px-5 sm:py-3 sm:text-[10px]">
+              <Link href="/profile/about" className="inline-flex w-fit items-center gap-2 border border-white bg-white px-4 py-2.5 text-[9px] font-bold uppercase tracking-[.14em] text-[var(--ink)] transition-colors hover:bg-transparent hover:text-white sm:gap-3 sm:px-5 sm:py-3 sm:text-[10px]">
                 Explore my journey <ArrowUpRight size={12} />
               </Link>
               <Link href="/contact" className="inline-flex w-fit items-center gap-2 border-b border-white/55 py-2.5 text-[9px] font-bold uppercase tracking-[.14em] text-white transition-colors hover:border-white sm:gap-3 sm:py-3 sm:text-[10px]">
